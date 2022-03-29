@@ -1,0 +1,46 @@
+body {
+    margin : auto;
+    width : auto;
+    font-family: sans-serif;
+    background-color: #fff3db;
+}
+img {
+    text-align:center;
+    margin: auto;
+    display:flex;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bolder;
+    background-color: #f02425;
+    color: #fff;
+    text-align: center;
+}
+
+h2  {
+    color: #f02425;
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+    font-weight: 300;
+}
+
+span {
+    color:#f02425;
+}
+strong {
+    color:#f02425;
+    font-weight: 700;
+}
+span1 {
+    text-align: center;
+    font-size: 13px;
+    font-style: italic;
+    background-color: rgb(243, 219, 83);
+    
+}
